@@ -1,0 +1,21 @@
+{
+  "name": "statbot",
+  "version": "1.0.0",
+  "description": "\"Discord bot that returns rainbow six siege data\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"ArjunGopi\"",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "discord": "^0.8.2",
+    "discord.io": "^2.5.3",
+    "discord.js": "^12.2.0",
+    "node-fetch": "^2.6.0"
+  }
+}
